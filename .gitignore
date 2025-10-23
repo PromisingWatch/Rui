@@ -1,1 +1,10 @@
 /target
+# Swap files
+*.swp
+*.swo
+*.kate-swp
+*~
+
+# Backup files
+*.bak
+*.backup
